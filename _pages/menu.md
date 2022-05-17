@@ -80,3 +80,15 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 |:-------|:-----:|
 | Add 2 Meatballs or 1 Sausage | +$3.50 |
 | Add Melted Mozzarella Cheese | +$2.00 |
+
+
+
+## Specialties
+
+From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
+
+|:-----------|:--------:|:------:|
+| BBQ Ribs              | $13.95 | $19.95 |
+| Country Fried Chicken | $12.20 | $16.70 |
+| Jumbo Fried Shrimp    | $12.20 | $18.45 |
+| Fried Perch Dinner    | $11.70 |        |
