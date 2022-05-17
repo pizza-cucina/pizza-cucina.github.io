@@ -45,6 +45,8 @@ Our pizzas are made fresh using only the highest quality ingredients and are bak
 
 A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and our homemade pizza sauce.
 
+| Calzone | Price | 
+|:--------|:-----:|
 | Classic Cheese | $10.60 |
 | Extra Ingredients | +$1.50 |
 
