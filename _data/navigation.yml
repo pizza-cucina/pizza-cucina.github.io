@@ -2,6 +2,9 @@
 main:
   - title: "Menu"
     url: /menu/
+  
+  - title: "Deals"
+    url: /deals/
     
   - title: "Catering"
     url: /catering/
