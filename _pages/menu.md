@@ -59,7 +59,7 @@ A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and o
 Cucina's authentic Italian cooking style, featuring our homemade sauces over a generous portion of pasta. Served with garlic bread and a side salad.
 
 | Pasta Dish | Price | 
-|:-----------|:-----:|
+|:-----------|------:|
 | Spaghetti                                                                   | $9.50  |
 | Mostaccioli                                                                 | $9.50  |
 | Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95  |
