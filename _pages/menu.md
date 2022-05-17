@@ -3,7 +3,6 @@ permalink: /menu/
 title: "Menu"
 author_profile: true
 redirect_from: 
-  - /menu/
   - /menu.html
 ---
 
