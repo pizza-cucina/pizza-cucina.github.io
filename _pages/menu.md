@@ -76,5 +76,5 @@ Pizza Cucina's authentic Italian cooking style, featuring our homemade sauces ov
 
 | Extras | Price |
 |:-------|:-----:|
-| Add 2 Meatballs or 1 Sausage | $3.50 |
-| Add Melted Mozzarella Cheese | $2.00 |
+| Add 2 Meatballs or 1 Sausage | +$3.50 |
+| Add Melted Mozzarella Cheese | +$2.00 |
