@@ -11,7 +11,7 @@ redirect_from:
 A variety of special combinations, old favorites, and new delights. With every bite, you'll know why our specialty pizza is "a slice above the rest!"
 
 | Pizza / Size | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
-|:-------------|:-----------:|:------------:|:-----------:|:-------------:|
+|:------------------------------------|:------:|:------:|:------:|:------:|
 | Four Tops                           | $17.70 | $21.65 | $24.40 | $27.90 |
 | BBQ Trio                            | $17.70 | $20.70 | $23.50 | $27.90 |
 | Veggie Delight                      | $17.70 | $21.65 | $24.40 | $27.90 |
@@ -30,14 +30,14 @@ A variety of special combinations, old favorites, and new delights. With every b
 Our pizzas are made fresh using only the highest quality ingredients and are baked to a perfect golden crust.
 
 | Pizza / Size | 10" | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
-|:-------------|:---:|:-----------:|:------------:|:-----------:|:-------------:|
+|:---------------------------------|:------:|:------:|:------:|:------:|:------:|
 | Thin Crust                       | $10.60 | $13.70 | $15.70 | $17.70 | $19.90 |
 | Double Dough                     | $11.85 | $15.10 | $16.95 | $19.00 | $21.40 |
 
 
 
 | Pizza / Size | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large)  |
-|:-------------|:-----------:|:------------:|:-----------:|:--------------:|
+|:-------------------------------------|:------:|:------:|:------:|:------:|
 | \*Pan Pizza                          | $16.30 | $18.30 | $21.25 | $23.60 |
 | \*Cucina's Stuffed Pizza             | $18.45 | $20.40 | $23.25 | $26.30 |
 
@@ -48,7 +48,7 @@ Our pizzas are made fresh using only the highest quality ingredients and are bak
 A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and our homemade pizza sauce.
 
 | Calzone | Price | 
-|:--------|:-----:|
+|:------------------|:------:|
 | Classic Cheese    | $10.60 |
 | Extra Ingredients | +$1.50 |
 
@@ -59,7 +59,7 @@ A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and o
 Cucina's authentic Italian cooking style, featuring our homemade sauces over a generous portion of pasta. Served with garlic bread and a side salad.
 
 | Pasta Dish | Price | 
-|:-----------|------:|
+|:----------------------------------------------------------------------------|-------:|
 | Spaghetti                                                                   | $9.50  |
 | Mostaccioli                                                                 | $9.50  |
 | Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95  |
@@ -77,7 +77,7 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 | Fettuccini Alfredo with Chicken                                             | $11.25 |
 
 | Extras | Price |
-|:-------|:-----:|
+|:-----------------------------|:------:|
 | Add 2 Meatballs or 1 Sausage | +$3.50 |
 | Add Melted Mozzarella Cheese | +$2.00 |
 
@@ -87,8 +87,39 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
 
-|:-----------|:--------:|:------:|
+|:----------------------|:------:|:------:|
 | BBQ Ribs              | $13.95 | $19.95 |
 | Country Fried Chicken | $12.20 | $16.70 |
 | Jumbo Fried Shrimp    | $12.20 | $18.45 |
 | Fried Perch Dinner    | $11.70 |        |
+
+
+
+## Sandwiches
+
+Our sandwiches are simply delicious, all served on fresh Turano bread and made to order.
+
+|:------------------------------|:------:|
+| Cucina's Steak                | $10.25 |
+| Grilled Chicken Breast Caesar | $6.65  |
+| Fried Chicken Club            | $7.50  |
+| Cucina's Cheesiest Beef       | $8.00  |
+| Italian Beef                  | $7.50  |
+| BBQ Beef                      | $7.50  |
+| Combo                         | $8.90  |
+| Grilled Italian Sausage       | $7.50  |
+| Homemade Meatballs            | $6.25  |
+| Grilled Steak                 | $9.25  |
+| Breaded Italian Steak         | $8.25  |
+| Classico Burger               | $8.05  |
+| 1/2 Lb. Hamburger             | $7.45  |
+| 1/2 Lb. Cheeseburger          | $7.75  |
+| 1/2 Lb. Pizza Burger          | $7.75  |
+| American Sub                  | $5.95  |
+| Veal Parmigiana               | $7.25  |
+| Chicken Parmigiana            | $7.25  |
+| Eggplant Parmigiana           | $7.25  |
+| Fried Chicken                 | $7.12  |
+| Grilled Chicken               | $6.05  |
+| Fish Sandwhich                | $5.55  |
+| Pepper & Egg                  | $5.95  |
