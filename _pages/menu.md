@@ -34,12 +34,14 @@ Our pizzas are made fresh using only the highest quality ingredients and are bak
 | Thin Crust                       | $10.60 | $13.70 | $15.70 | $17.70 | $19.90 |
 | Double Dough                     | $11.85 | $15.10 | $16.95 | $19.00 | $21.40 |
 
+
+
 | Pizza / Size | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large)  |
 |:-------------|:-----------:|:------------:|:-----------:|:--------------:|
-| Pan Pizza                            | $16.30 | $18.30 | $21.25 | $23.60 |
-| Cucina's Stuffed Pizza               | $18.45 | $20.40 | $23.25 | $26.30 |
+| \*Pan Pizza                          | $16.30 | $18.30 | $21.25 | $23.60 |
+| \*Cucina's Stuffed Pizza             | $18.45 | $20.40 | $23.25 | $26.30 |
 
-
+\*Please allow an extra 35 minutes to cook
 
 ## Calzones
 
@@ -47,7 +49,7 @@ A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and o
 
 | Calzone | Price | 
 |:--------|:-----:|
-| Classic Cheese | $10.60 |
+| Classic Cheese    | $10.60 |
 | Extra Ingredients | +$1.50 |
 
 
@@ -58,21 +60,21 @@ Pizza Cucina's authentic Italian cooking style, featuring our homemade sauces ov
 
 | Pasta Dish | Price | 
 |:-----------|:-----:|
-| Spaghetti | $9.50 |
-| Mostaccioli | $9.50 |
-| Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95 |
-| Homemade Baked Lasagna | $10.75 |
-| Homemade Manicotti | $10.50 |
-| Homemade Gnocchi | $11.70 |
-| Linguini with Broccoli & Shrimp | $12.95 |
-| Linguini Aglio Olio with Fresh Garlic & Oil | $9.25 |
-| Shrimp Arrabiata | $14.95 |
-| Rigatoni with Vodka Tomato Sauce | $12.75 |
-| Veal Parmigiana over Spaghetti | $12.00 |
-| Chicken Parmigiana over Spaghetti | $11.50 |
-| Eggplant Parmigiana over Spaghetti | $11.20 |
-| Fettuccini Alfredo | $9.75 |
-| Fettuccini Alfredo with Chicken | $11.25 |
+| Spaghetti                                                                   | $9.50  |
+| Mostaccioli                                                                 | $9.50  |
+| Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95  |
+| Homemade Baked Lasagna                                                      | $10.75 |
+| Homemade Manicotti                                                          | $10.50 |
+| Homemade Gnocchi                                                            | $11.70 |
+| Linguini with Broccoli & Shrimp                                             | $12.95 |
+| Linguini Aglio Olio with Fresh Garlic & Oil                                 | $9.25  |
+| Shrimp Arrabiata                                                            | $14.95 |
+| Rigatoni with Vodka Tomato Sauce                                            | $12.75 |
+| Veal Parmigiana over Spaghetti                                              | $12.00 |
+| Chicken Parmigiana over Spaghetti                                           | $11.50 |
+| Eggplant Parmigiana over Spaghetti                                          | $11.20 |
+| Fettuccini Alfredo                                                          | $9.75  |
+| Fettuccini Alfredo with Chicken                                             | $11.25 |
 
 | Extras | Price |
 |:-------|:-----:|
