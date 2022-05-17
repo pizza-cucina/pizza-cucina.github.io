@@ -56,7 +56,7 @@ A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and o
 
 ## Pasta
 
-Pizza Cucina's authentic Italian cooking style, featuring our homemade sauces over a generous portion of pasta. Served with garlic bread and a side salad.
+Cucina's authentic Italian cooking style, featuring our homemade sauces over a generous portion of pasta. Served with garlic bread and a side salad.
 
 | Pasta Dish | Price | 
 |:-----------|:-----:|
