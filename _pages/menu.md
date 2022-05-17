@@ -8,6 +8,8 @@ redirect_from:
 
 ## Specialty Pizza
 
+A variety of special combinations, old favorites, and new delights. With every bite, you'll know why our specialty pizza is "a slice above the rest!"
+
 | Pizza / Size | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
 |:-------------|:-----------:|:------------:|:-----------:|:-------------:|
 | Four Tops                           | $17.70 | $21.65 | $24.40 | $27.90 |
@@ -25,6 +27,8 @@ redirect_from:
 
 ## Pizza
 
+Our pizzas are made fresh using only the highest quality ingredients and are baked to a perfect golden crust.
+
 | Pizza / Size | 10" | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
 |:-------------|:---:|:-----------:|:------------:|:-----------:|:-------------:|
 | Thin Crust                       | $10.60 | $13.70 | $15.70 | $17.70 | $19.90 |
@@ -37,3 +41,38 @@ redirect_from:
 
 
 
+## Calzones
+
+A baked-pizza turnover hand rolled and edge stuffed with mozzarella cheese and our homemade pizza sauce.
+
+| Classic Cheese | $10.60 |
+| Extra Ingredients | +$1.50 |
+
+
+
+## Pasta
+
+Pizza Cucina's authentic Italian cooking style, featuring our homemade sauces over a generous portion of pasta. Served with garlic bread and a side salad.
+
+| Pasta Dish | Price | 
+|:-----------|:-----:|
+| Spaghetti | $9.50 |
+| Mostaccioli | $9.50 |
+| Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95 |
+| Homemade Baked Lasagna | $10.75 |
+| Homemade Manicotti | $10.50 |
+| Homemade Gnocchi | $11.70 |
+| Linguini with Broccoli & Shrimp | $12.95 |
+| Linguini Aglio Olio with Fresh Garlic & Oil | $9.25 |
+| Shrimp Arrabiata | $14.95 |
+| Rigatoni with Vodka Tomato Sauce | $12.75 |
+| Veal Parmigiana over Spaghetti | $12.00 |
+| Chicken Parmigiana over Spaghetti | $11.50 |
+| Eggplant Parmigiana over Spaghetti | $11.20 |
+| Fettuccini Alfredo | $9.75 |
+| Fettuccini Alfredo with Chicken | $11.25 |
+
+| Extras | Price |
+|:-------|:-----:|
+| Add 2 Meatballs or 1 Sausage | $3.50 |
+| Add Melted Mozzarella Cheese | $2.00 |
