@@ -21,7 +21,8 @@ redirect_from:
 | Grilled Chicken Alfredo              | $19.30 | $22.65 | $25.50 | $28.90 |
 | Spinach Classic                      | $17.70 | $20.65 | $23.50 | $27.80 |
 
-======
+
+---
 
 ## Pizza
 
