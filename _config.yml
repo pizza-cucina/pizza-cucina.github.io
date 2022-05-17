@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pizza Cucina"
   avatar           : "profile.png"
-  bio              : "The best pizza in Oswego"
+  bio              : "The best pizza in Oswego. <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
   location         : "12 E. Merchants Dr. <br> Oswego IL."
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
