@@ -87,7 +87,7 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
 
-| Specialty Meal | | |
+| Specialty Meal | (medium serving) | (large serving) |
 |:----------------------|:-------------------:|:-------------------:|
 | BBQ Ribs              | $13.95 (Half Slab)  | $19.95 (Full Slab)  |
 | Country Fried Chicken | $12.20 (4 Pcs.)     | $16.70 (8 Pcs.)     |
