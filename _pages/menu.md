@@ -87,6 +87,7 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
 
+| Specialty Meal | Price |
 |:----------------------|:------:|:------:|
 | BBQ Ribs              | $13.95 | $19.95 |
 | Country Fried Chicken | $12.20 | $16.70 |
@@ -99,6 +100,7 @@ From our cucina to your table! Enjoy a meal that makes you feel right at home. A
 
 Our sandwiches are simply delicious, all served on fresh Turano bread and made to order.
 
+| Sandwich | Price |
 |:------------------------------|:------:|
 | Cucina's Steak                | $10.25 |
 | Grilled Chicken Breast Caesar | $6.65  |
