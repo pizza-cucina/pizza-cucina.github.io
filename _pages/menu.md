@@ -133,11 +133,13 @@ Our sandwiches are simply delicious, all served on fresh Turano bread and made t
 Our crisp garden salads are made fresh and come with croutons and your choice of dressing.
 
 | Salad | Ingredients | Price |
-|:------------------------------|:------------------------------------------------------------------|:-------------------:|
-| Chef's Salad                  | Ham, turkey, lettuce, tomato, cucumbers, cheddar, & black olives  |
-| Chicken Breast Salad          | Grilled chicken breast, lettuce, tomato, & cucumbers              |
-| Garden Salad                  | Lettuce, tomato, cucumbers, green peppers, & mushrooms            |
-| Caesar Salad                  | | |
-| Grilled Chicken Caesar Salad  | | |
-| Antipasto Salad               | | |
-| Side Salad                    | | |
+|:------------------------------|:--------------------------------------------------------------------------------|:-----:|
+| Chef's Salad                  | Ham, turkey, lettuce, tomato, cucumbers, cheddar, & black olives                | $7.25 | 
+| Chicken Breast Salad          | Grilled chicken breast, lettuce, tomato, & cucumbers                            | $7.75 | 
+| Garden Salad                  | Lettuce, tomato, cucumbers, green peppers, & mushrooms                          | $6.25 | 
+| Caesar Salad                  | Romaine lettuce, parmesan, croutons, & caesar dressing                          | $6.25 | 
+| Grilled Chicken Caesar Salad  | Grilled chicken breast, romaine lettuce, parmesan, croutons, & caesar dressing  | $7.75 | 
+| Antipasto Salad               | Lettuce, tomato, salami, pepperoni, provolone, black olives, & grated romano    | $7.75 |
+| Side Salad                    | Lettuce, tomato, & croutons                                                     | $3.25 |
+
+
