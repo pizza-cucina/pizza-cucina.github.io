@@ -76,7 +76,7 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 | Fettuccini Alfredo                                                          | $9.75  |
 | Fettuccini Alfredo with Chicken                                             | $11.25 |
 
-| Extras | Price |
+| Extras | Add on Price |
 |:-----------------------------|:------:|
 | Add 2 Meatballs or 1 Sausage | +$3.50 |
 | Add Melted Mozzarella Cheese | +$2.00 |
@@ -87,12 +87,12 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
 
-| Specialty Meal | Price |
-|:----------------------|:------:|:------:|
-| BBQ Ribs              | $13.95 | $19.95 |
-| Country Fried Chicken | $12.20 | $16.70 |
-| Jumbo Fried Shrimp    | $12.20 | $18.45 |
-| Fried Perch Dinner    | $11.70 |        |
+| Specialty Meal | | |
+|:----------------------|:-------------------:|:-------------------:|
+| BBQ Ribs              | $13.95 (Half Slab)  | $19.95 (Full Slab)  |
+| Country Fried Chicken | $12.20 (4 Pcs.)     | $16.70 (8 Pcs.)     |
+| Jumbo Fried Shrimp    | $12.20 (1/2 Lb.)    | $18.45 (1 Lb.)      |
+| Fried Perch Dinner    |                     | $11.70              |
 
 
 
