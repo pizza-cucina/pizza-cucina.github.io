@@ -125,3 +125,19 @@ Our sandwiches are simply delicious, all served on fresh Turano bread and made t
 | Grilled Chicken               | $6.05  |
 | Fish Sandwhich                | $5.55  |
 | Pepper & Egg                  | $5.95  |
+
+
+
+## Salads
+
+Our crisp garden salads are made fresh and come with croutons and your choice of dressing.
+
+| Salad | | Price |
+|:------------------------------|:-----------------------------------------------------------------:|:-------------------:|
+| Chef's Salad                  | Ham, turkey, lettuce, tomato, cucumbers, cheddar, & black olives  |
+| Chicken Breast Salad          | Grilled chicken breast, lettuce, tomato, & cucumbers              |
+| Garden Salad                  | Lettuce, tomato, cucumbers, green peppers, & mushrooms            |
+| Caesar Salad                  | | |
+| Grilled Chicken Caesar Salad  | | |
+| Antipasto Salad               | | |
+| Side Salad                    | | |
