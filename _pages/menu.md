@@ -132,7 +132,7 @@ Our sandwiches are simply delicious, all served on fresh Turano bread and made t
 
 Our crisp garden salads are made fresh and come with croutons and your choice of dressing.
 
-| Salad | | Price |
+| Salad | Ingredients | Price |
 |:------------------------------|------------------------------------------------------------------:|:-------------------:|
 | Chef's Salad                  | Ham, turkey, lettuce, tomato, cucumbers, cheddar, & black olives  |
 | Chicken Breast Salad          | Grilled chicken breast, lettuce, tomato, & cucumbers              |
