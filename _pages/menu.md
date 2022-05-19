@@ -41,7 +41,9 @@ Our pizzas are made fresh using only the highest quality ingredients and are bak
 | \*Pan Pizza                          | $16.30 | $18.30 | $21.25 | $23.60 |
 | \*Cucina's Stuffed Pizza             | $18.45 | $20.40 | $23.25 | $26.30 |
 
-\*Please allow an extra 35 minutes to cook
+\*Please allow an extra 35 minutes to cook {: .notice} 
+
+
 
 ## Calzones
 
@@ -100,31 +102,31 @@ From our cucina to your table! Enjoy a meal that makes you feel right at home. A
 
 Our sandwiches are simply delicious, all served on fresh Turano bread and made to order.
 
-| Sandwich | Price |
-|:------------------------------|:------:|
-| Cucina's Steak                | $10.25 |
-| Grilled Chicken Breast Caesar | $6.65  |
-| Fried Chicken Club            | $7.50  |
-| Cucina's Cheesiest Beef       | $8.00  |
-| Italian Beef                  | $7.50  |
-| BBQ Beef                      | $7.50  |
-| Combo                         | $8.90  |
-| Grilled Italian Sausage       | $7.50  |
-| Homemade Meatballs            | $6.25  |
-| Grilled Steak                 | $9.25  |
-| Breaded Italian Steak         | $8.25  |
-| Classico Burger               | $8.05  |
-| 1/2 Lb. Hamburger             | $7.45  |
-| 1/2 Lb. Cheeseburger          | $7.75  |
-| 1/2 Lb. Pizza Burger          | $7.75  |
-| American Sub                  | $5.95  |
-| Veal Parmigiana               | $7.25  |
-| Chicken Parmigiana            | $7.25  |
-| Eggplant Parmigiana           | $7.25  |
-| Fried Chicken                 | $7.12  |
-| Grilled Chicken               | $6.05  |
-| Fish Sandwhich                | $5.55  |
-| Pepper & Egg                  | $5.95  |
+| Sandwich | Description | Price |
+|:------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+| Cucina's Steak                | Grilled mushrooms & onions on garlic bread                                                  | $10.25  |
+| Grilled Chicken Breast Caesar |                                                                                             | $6.65   |
+| Fried Chicken Club            |                                                                                             | $7.50   |
+| Cucina's Cheesiest Beef       | Fresh French bread loaded with Italian beef, topped with mozzarella, & baked until golden   | $8.00   |
+| Italian Beef                  | Thin sliced Italian beef piled high                                                         | $7.50   |
+| BBQ Beef                      | Beef barbecued in our savory sauce                                                          | $7.50   |
+| Combo                         | Italian beef & sausage                                                                      | $8.90   |
+| Grilled Italian Sausage       | Grilled Italian sausage served on French bread                                              | $7.50   |
+| Homemade Meatballs            | Our homemade meatballs served with our marinara sauce                                       | $6.25   |
+| Grilled Steak                 | Steak served on French bread with lettuce & tomato                                          | $9.25   |
+| Breaded Italian Steak         | Steak breaded & covered with our marinara sauce                                             | $8.25   |
+| Classico Burger               | Sautéed mushrooms & onions, topped with imported provolone                                  | $8.05   |
+| 1/2 Lb. Hamburger             | Comes with all the trimmings you love                                                       | $7.45   |
+| 1/2 Lb. Cheeseburger          | Comes with all the trimmings you love & cheese on top                                       | $7.75   |
+| 1/2 Lb. Pizza Burger          | Comes with our pizza sauce & mozzarella                                                     | $7.75   |
+| American Sub                  | Sliced turkey, ham, American cheese, lettuce, tomato, & mayo                                | $5.95   |
+| Veal Parmigiana               |                                                                                             | $7.25   |
+| Chicken Parmigiana            | Breaded chicken breast with red sauce & mozzarella                                          | $7.25   |
+| Eggplant Parmigiana           | Breaded eggplant with red sauce & mozzarella                                                | $7.25   |
+| Fried Chicken                 | Served with lettuce, tomato, mayo, & mozzarella                                             | $7.12   |
+| Grilled Chicken               | Grilled chicken with lettuce, tomato, & mayo                                                | $6.05   |
+| Fish Sandwhich                | Comes with American cheese & tartar sauce                                                   | $5.55   |
+| Pepper & Egg                  | Served on fresh French bread                                                                | $5.95   |
 
 
 
