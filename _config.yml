@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pizza Cucina"
-  avatar           : "profile.png"
+  avatar           : "temp_logo.png"
   bio              : "To place an order please look through our menu and give us a call: <br> <br> <strong> +1 630-844-9600 </strong> </a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
   location         : "12 E. Merchants Dr. <br> Oswego, IL. 60543"
   employer         :
