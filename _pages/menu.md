@@ -11,7 +11,7 @@ redirect_from:
 A variety of special combinations, old favorites, and new delights. With every bite, you'll know why our specialty pizza is "a slice above the rest!"
 
 | Pizza | Ingredients | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
-|:--------------------------|:-------------------------------------------------------:|:------:|:------:|:------:|:------:|
+|:--------------------------|:--------------------------------------------------------|:------:|:------:|:------:|:------:|
 | Four Tops                 | Sausage, mushrooms, onion, & green peppers              | $17.70 | $21.65 | $24.40 | $27.90 |
 | BBQ Trio                  | BBQ sauce, sausage, onion, & bacon                      | $17.70 | $20.70 | $23.50 | $27.90 |
 | Veggie Delight            | Mushrooms, onion, green peppers, & sliced tomatos       | $17.70 | $21.65 | $24.40 | $27.90 |
