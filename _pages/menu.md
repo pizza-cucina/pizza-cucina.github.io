@@ -41,7 +41,7 @@ Our pizzas are made fresh using only the highest quality ingredients and are bak
 | \*Pan Pizza                          | $16.30 | $18.30 | $21.25 | $23.60 |
 | \*Cucina's Stuffed Pizza             | $18.45 | $20.40 | $23.25 | $26.30 |
 
-{: \*Please allow an extra 35 minutes to cook .notice} 
+{: .notice}\*Please allow an extra 35 minutes to cook 
 
 
 
