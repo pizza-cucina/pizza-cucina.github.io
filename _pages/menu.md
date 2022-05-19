@@ -99,7 +99,7 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 From our cucina to your table! Enjoy a meal that makes you feel right at home. All served with golden french fries and our homemade coleslaw.
 
-| Specialty Meal | (medium serving) | (large serving) |
+| Specialty Meal | Medium Serving | Large Serving |
 |:----------------------|:-------------------:|:-------------------:|
 | BBQ Ribs              | $13.95 (Half Slab)  | $19.95 (Full Slab)  |
 | Country Fried Chicken | $12.20 (4 Pcs.)     | $16.70 (8 Pcs.)     |
@@ -158,9 +158,11 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 
 ## Desserts
 
-| Dessert | Description | (medium) | (large) |
+| Dessert | Description | Medium | Large |
 |:----------------------|:----------------------------------------------------------------------|:-------:|:-------:|
 | Cannoli               | An Italian pastry filled with sweet cream & topped with pistachios    |         | $3.95   |
 | Tiramisu              | Espresso sponge cake with thick layers of custard dusted with cocoa   |         | $5.25   |
 | Homemade Italian Ice  | Homemade with your choice of lemon, watermelon, or mango              | $2.00   | $4.00   |
 | Fresh Brownies        |                                                                       |         | $4.00   |
+
+
