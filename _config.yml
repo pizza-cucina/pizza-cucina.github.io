@@ -11,7 +11,7 @@ title                    : "Pizza Cucina"
 title_separator          : "-"
 name                     : &name "Pizza Cucina"
 description              : &description "personal description"
-url                      : http://pizza-cucina.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pizza-cucina.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pizza-cucina/pizza-cucina.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pizza Cucina"
   avatar           : "profile.png"
-  bio              : "Come on in for the best pizza in Oswego or call to place an order: <br> <br> <a href="tel:6308449600"> <strong> +1 630-844-9600 </strong> </a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
-  location         : "12 E. Merchants Dr. <br> Oswego, IL. 60543"
+  bio              : "Come on in for the best pizza in Oswego. To place an order please look through our menu and specials and give us a call: <br> <br> <a href="tel:6308449600"> <strong> +1 630-844-9600 </strong> </a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
+  location         : "<address> 12 E. Merchants Dr. /> Oswego, IL. 60543 </address>"
   employer         :
   pubmed           : 
   googlescholar    : 
