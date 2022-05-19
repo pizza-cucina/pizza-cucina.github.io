@@ -6,6 +6,11 @@ redirect_from:
 ---
 
 
+
+#### Please call to place an order or come on in for the best pizza in Oswego 
+
+
+
 ## Specialty Pizza
 
 A variety of special combinations, old favorites, and new delights. With every bite, you'll know why our specialty pizza is "a slice above the rest!"
