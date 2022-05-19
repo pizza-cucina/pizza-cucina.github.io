@@ -16,7 +16,7 @@ redirect_from:
 A variety of special combinations, old favorites, and new delights. With every bite, you'll know why our specialty pizza is "a slice above the rest!"
 
 
-**NEW: GLUTEN FREE - 10" - Cheese $12.60 and GLUTEN FREE - 14" - Cheese $20.70**
+**NEW: GLUTEN FREE - 10" - Cheese \$12.60 and GLUTEN FREE - 14" - Cheese \$20.70**
 
 
 | Pizza | Ingredients | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
