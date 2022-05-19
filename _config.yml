@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pizza Cucina"
   avatar           : "profile.png"
-  bio              : "Come on in for the best pizza in Oswego. To place an order please look through our menu and specials and give us a call: <br> <br> <a href="tel:6308449600"> <strong> +1 630-844-9600 </strong> </a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
+  bio              : "Come on in for the best pizza in Oswego. <br> To place an order please look through our menu and give us a call: <br> <br> <a href="tel:6308449600"> <strong> +1 630-844-9600 </strong> </a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
   location         : "12 E. Merchants Dr. <br> Oswego, IL. 60543"
   employer         :
   pubmed           : 
