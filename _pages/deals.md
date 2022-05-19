@@ -10,6 +10,6 @@ redirect_from:
 
 ## Wednesday Pizza Day
 
-Are you craving our fresh pizza? Then come on in or give us a call on Wednesday to recieve a ***30% discount on our delicious pizza***.
+Are you craving our fresh pizza? Then come on in or give us a call on Wednesday to recieve a ***30% discount on our delicious pizzas***.
 
 ---
