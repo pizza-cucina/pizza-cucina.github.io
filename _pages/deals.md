@@ -6,6 +6,10 @@ redirect_from:
 ---
 
 
-# Wednesday Night, Pizza Night
+===
 
-Are you craving pizza? Then come on in or give us a call on Wednesday to recieve a 30% discount on our delicious fresh pizza.
+## Wednesday Night, Pizza Night
+
+Are you craving our fresh pizza? Then come on in or give us a call on Wednesday to recieve a 30% discount on our delicious pizza.
+
+===
