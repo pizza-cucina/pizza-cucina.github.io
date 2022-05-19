@@ -7,7 +7,7 @@ redirect_from:
 
 
 
-#### Please call to place an order or come on in for the best pizza in Oswego 
+#### Please call our number on the left to place an order or come on in for the best pizza in Oswego
 
 
 
