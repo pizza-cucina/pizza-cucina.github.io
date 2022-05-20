@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pizza Cucina"
   avatar           : "temp_logo_scaled.png"
-  bio              : "To place an order please look through our menu and give us a call: <br> <br> <a href="tel:+16308449600">630-844-9600</a> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
-  location         : "<a href="https://www.google.com/maps/place/Pizza+Cucina/@41.717709,-88.3228167,17z/data=!3m1!4b1!4m5!3m4!1s0x880ef0289f5858c5:0x190a5d06bd1f9f87!8m2!3d41.717709!4d-88.320628">12 E. Merchants Dr.   Oswego, IL. 60543</a>"
+  bio              : "To place an order please look through our menu and give us a call: <br> <br> <strong> 630-844-9600 </strong> <br> <br> We are open: <br> M-Th: 11 am - 9 pm <br> F-Sat: 11 am - 10 pm <br> Sun: 12 pm - 9 pm"
+  location         : "<strong> 12 E. Merchants Dr. Oswego, IL. 60543 </strong>"
   employer         :
   pubmed           : 
   googlescholar    : 
