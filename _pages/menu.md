@@ -165,3 +165,17 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 | Fresh Brownies        |                                                                       |         | $4.00   |
 
 
+
+## Beverages
+
+We serve quality Pepsi products: **Pepsi**, **Cherry Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mug Root Beer**, **Mountain Dew**, and **Brisk Iced Tea**. \
+**For our dine-in customers, beer and wine are available.**
+
+| Drinks | Price | 
+|:----------------------------|------:|
+| Can                         | $1.50 |
+| Six Pack                    | $5.90 |
+| Bottled Water               | $1.25 |
+| Coffee (Regular or Decaf)   | $1.00 |
+| Milk                        | $1.25 |
+
