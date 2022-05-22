@@ -12,27 +12,7 @@ title_separator          : "-"
 name                     : &name "Pizza Cucina"
 description              : &description "personal description"
 url                      : http://pizza-cucina.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "
-THE LUCKY LINCOLN DIFFERENCE
-
-1200
-
-+
-VGTS IN PLAY
-
-$
-
-330
-VGT daily avg
-
-99
-
-%
-MACHINE UPTIME
-
-169
-LOCATIONS
-" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pizza-cucina/pizza-cucina.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
