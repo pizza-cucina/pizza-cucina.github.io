@@ -3,15 +3,11 @@ main:
   - title: "Menu"
     url: /menu/
   
-  - title: "Deals"
-    url: /deals/
-    
   - title: "Catering"
     url: /catering/
 
+  - title: "Deals"
+    url: /deals/
+    
   - title: "Gaming"
     url: /gaming/
-    
-  - title: "About Us"
-    url: /about/
-
