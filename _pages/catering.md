@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 
-### To order, call 630-844-9600
+### To place a catering order, please call [630-844-9600](tel:16308449600)
 
 `3 Days Advance on Catering Orders`
 
