@@ -10,6 +10,6 @@ redirect_from:
 
 ## Gaming Area
 
-At Pizza Cucina we offer several <a href="https://luckylincoln.com/"> Lucky Lincoln </a> gaming machines in our gaming area.
+At Pizza Cucina we offer several <a href="https://luckylincoln.com/">Lucky Lincoln</a> gaming machines in our gaming area and a Lucky Lincoln kiosk.
 
 ---
