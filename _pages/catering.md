@@ -86,7 +86,7 @@ Choose 1 item from each category:
 
 Includes French bread & Romano cheese
 
-===
+
 
 #### $10.00 Per Person (minimum 20 people)
 
