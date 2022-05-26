@@ -77,7 +77,7 @@ Served with 4 garlic breads, 4 side salads with 4 dressings. Serves 4-5 people.
 Choose 1 item from each category:
 
 | Meat | Pasta | Salad |
-|:---------------------------------:|:---------------------------------:|---------------------------|
+|:----------------------------------|:----------------------------------|:--------------------------|
 | Fried Chicken                     | Mostaccioli                       | Potato Salad              |
 | Italian Sausage w/ Sweet Peppers  | Spaghetti                         | Macaroni Salad            |
 | Homemade Meatballs                | Cheese Ravioli                    | Cole Slaw                 |
@@ -92,7 +92,7 @@ Includes French bread & Romano cheese
 Choose 1 item from each category:
 
 | Meat | Pasta | Salad |
-|:---------------------------------:|:---------------------------------:|---------------------------|
+|:----------------------------------|:----------------------------------|:--------------------------|
 | Italian Beef w/ Sweet Peppers     | Homemade Lasagna                  | Pasta Salad               |
 | Chicken Parmigiana                | Baked Mostaccioli w/ Meatballs    | Potato Salad              |
 | Italian Sausage w/ Sweet Peppers  | Spaghetti w/ Meatballs            | Macaroni Salad            |
