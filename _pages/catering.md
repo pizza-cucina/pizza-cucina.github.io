@@ -1,6 +1,6 @@
 ---
 permalink: /catering/
-title: "Catering Options"
+title: "Catering & Party Options"
 author_profile: true
 redirect_from: 
 ---
