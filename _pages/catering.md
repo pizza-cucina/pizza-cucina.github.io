@@ -50,3 +50,54 @@ redirect_from:
 * Sternos $2.00 (each)
 * Stands $2.00 (each)
 
+
+
+
+## Family-Sized Pasta
+
+Relax, let us cook! We offer generously-sized pasta for your family.
+Served with 4 garlic breads, 4 side salads with 4 dressings. Serves 4-5 people.
+
+
+| Pasta | Price |
+|:--------------------------------|:------:|
+| Spaghetti                       | $31.00 |
+| Mostaccioli                     | $31.00 |
+| Baked Mostaccioli               | $38.00 |
+| Meat or Cheese Ravioli          | $38.00 |
+| Add 8 Meatballs or 4 Sausages   | $10.00 |
+| Add Melted Mozzarella Cheese    | $6.00  |
+
+
+
+## Party Package Choices
+
+#### $9.00 Per Person (minimum 20 people)
+
+Choose 1 item from each category:
+
+| Meat | Pasta | Salad |
+|:---------------------------------:|:---------------------------------:|---------------------------|
+| Fried Chicken                     | Mostaccioli                       | Potato Salad              |
+| Italian Sausage w/ Sweet Peppers  | Spaghetti                         | Macaroni Salad            |
+| Homemade Meatballs                | Cheese Ravioli                    | Cole Slaw                 |
+|                                   | Meat Ravioli                      | Tossed Salad w/ Dressing  |
+|                                   | Rigatoni w/ Fresh Tomato & Basil  |                           |
+
+Includes French bread & Romano cheese
+
+
+#### $10.00 Per Person (minimum 20 people)
+
+Choose 1 item from each category:
+
+| Meat | Pasta | Salad |
+|:---------------------------------:|:---------------------------------:|---------------------------|
+| Italian Beef w/ Sweet Peppers     | Homemade Lasagna                  | Pasta Salad               |
+| Chicken Parmigiana                | Baked Mostaccioli w/ Meatballs    | Potato Salad              |
+| Italian Sausage w/ Sweet Peppers  | Spaghetti w/ Meatballs            | Macaroni Salad            |
+|                                   | Cheese or Meat Ravioli            | Cole Slaw                 |
+|                                   | Rigatoni w/ Fresh Tomato & Basil  |                           |
+
+Includes French bread & Romano cheese
+
