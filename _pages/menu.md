@@ -201,7 +201,8 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 
 ## Beverages
 
-We serve quality Pepsi products: **Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mountain Dew**, and **Brisk Iced Tea**. \
+We serve quality Pepsi products: **Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mountain Dew**, and **Brisk Iced Tea**. 
+
 
 **For our dine-in customers, beer and wine are available.**
 
