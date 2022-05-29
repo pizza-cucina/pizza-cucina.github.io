@@ -7,7 +7,9 @@ redirect_from:
 
 
 
-### Please call our number on the left to place an order or come on in for the best pizza in Oswego
+### Please call our number [+1-630-844-9600](tel:16308449600) to place an order or come on in for the best pizza in Oswego
+
+`All prices subject to change`
 
 
 
@@ -111,7 +113,7 @@ From our cucina to your table! Enjoy a meal that makes you feel right at home. A
 
 Our sandwiches are simply delicious, all served on fresh Turano bread and made to order.
 
-| Sandwich | Description | Price |
+| Sandwiches | Description | Price |
 |:------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
 | Cucina's Steak                | Grilled mushrooms & onions on garlic bread                                                  | $10.25  |
 | Grilled Chicken Breast Caesar |                                                                                             | $6.65   |
@@ -143,7 +145,7 @@ Our sandwiches are simply delicious, all served on fresh Turano bread and made t
 
 Our crisp garden salads are made fresh and come with croutons and your choice of dressing.
 
-| Salad | Ingredients | Price |
+| Salads | Ingredients | Price |
 |:------------------------------|:--------------------------------------------------------------------------------|:-----:|
 | Chef's Salad                  | Ham, turkey, lettuce, tomato, cucumbers, cheddar, & black olives                | $7.25 | 
 | Chicken Breast Salad          | Grilled chicken breast, lettuce, tomato, & cucumbers                            | $7.75 | 
@@ -152,6 +154,37 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 | Grilled Chicken Caesar Salad  | Grilled chicken breast, romaine lettuce, parmesan, croutons, & caesar dressing  | $7.75 | 
 | Antipasto Salad               | Lettuce, tomato, salami, pepperoni, provolone, black olives, & grated romano    | $7.75 |
 | Side Salad                    | Lettuce, tomato, & croutons                                                     | $3.25 |
+
+
+
+## Sides and Appetizers
+
+| Appetizers | Price | 
+|:--------------------------------------------------------|-------:|
+| Mac & Cheese Balls                                      | $7.25  |
+| Fresh Fried Calamari w/ Marinara Sauce                  | $11.45 |
+| Garlic Bread                                            | $3.50  |
+| Garlic Bread w/ Cheese                                  | $4.50  |
+| Breadsticks                                             | $4.95  |
+| Tomato Bread w/ Cheese                                  | $4.20  |
+| Pizza Bread                                             | $3.75  |
+| French Fries                                            | $2.99  |
+| Onion Rings                                             | $3.45  |
+| Mozzarella Sticks w/ Marinara Sauce                     | $7.25  |
+| Breaded Mushrooms or Cauliflower                        | $5.75  |
+| Chicken Fingers (4)                                     | $6.15  |
+| Breaded Veggie Combo (Mushrooms, Onion, & Cauliflower)  | $6.95  |
+| Homemade Coleslaw                                       | $1.55  |
+| Homemade Soup-in-Season                                 | $3.00  |
+| Fried Cheese Ravioli w/ Marinara Sauce                  | $6.95  |
+| Fritti (Fried Dough w/ Cinammon Sugar)                  | $4.50  |
+| Cream or Cheddar Jalapeno Poppers                       | $5.95  |
+| Breaded Zucchini Sticks                                 | $3.35  |
+
+
+| Appetizers | 6 pc. | 12 pc. |
+|:------------------------|-------:|-------:|
+| Hot Wings - (Breaded)   | $8.40  | $13.50 |
 
 
 
@@ -168,7 +201,8 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 
 ## Beverages
 
-We serve quality Pepsi products: **Pepsi**, **Cherry Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mug Root Beer**, **Mountain Dew**, and **Brisk Iced Tea**. \
+We serve quality Pepsi products: **Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mountain Dew**, and **Brisk Iced Tea**. \
+
 **For our dine-in customers, beer and wine are available.**
 
 | Drinks | Price | 
@@ -178,4 +212,5 @@ We serve quality Pepsi products: **Pepsi**, **Cherry Pepsi**, **Diet Pepsi**, **
 | Bottled Water               | $1.25 |
 | Coffee (Regular or Decaf)   | $1.00 |
 | Milk                        | $1.25 |
+
 
