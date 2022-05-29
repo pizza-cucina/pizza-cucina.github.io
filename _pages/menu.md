@@ -9,8 +9,6 @@ redirect_from:
 
 ### Please call our number [+1-630-844-9600](tel:16308449600) to place an order or come on in for the best pizza in Oswego
 
-`All prices subject to change`
-
 
 
 ## Specialty Pizza
@@ -204,7 +202,7 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 We serve quality Pepsi products: **Pepsi**, **Diet Pepsi**, **Sierra Mist**, **Mountain Dew**, and **Brisk Iced Tea**. 
 
 
-**For our dine-in customers, beer and wine are available.**
+***For our dine-in customers, beer and wine are available.***
 
 | Drinks | Price | 
 |:----------------------------|------:|
@@ -215,3 +213,5 @@ We serve quality Pepsi products: **Pepsi**, **Diet Pepsi**, **Sierra Mist**, **M
 | Milk                        | $1.25 |
 
 
+
+`All prices subject to change`
