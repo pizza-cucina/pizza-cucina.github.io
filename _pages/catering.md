@@ -72,7 +72,7 @@ Served with 4 garlic breads, 4 side salads with 4 dressings. Serves 4-5 people.
 
 ## Party Package Choices
 
-#### $9.00 Per Person (minimum 20 people)
+#### $12.00 Per Person (minimum 20 people)
 
 Choose 1 item from each category:
 
@@ -88,7 +88,7 @@ Includes French bread & Romano cheese
 
 
 
-#### $10.00 Per Person (minimum 20 people)
+#### $13.00 Per Person (minimum 20 people)
 
 Choose 1 item from each category:
 
