@@ -22,7 +22,7 @@ A variety of special combinations, old favorites, and new delights. With every b
 | Pizza | Ingredients | 12" (small) | 14" (medium) | 16" (large) | 18" (x-large) |
 |:--------------------------|:--------------------------------------------------------|:------:|:------:|:------:|:------:|
 | Four Tops                 | Sausage, mushrooms, onion, & green peppers              | $17.70 | $21.65 | $24.40 | $27.90 |
-| BBQ Trio                  | BBQ sauce, sausage, onion, & bacon                      | $17.70 | $20.70 | $23.50 | $27.90 |
+| BBQ Trio                  | BBQ sauce, sausage, onion, & bacon                      | $17.70 | $21.70 | $24.50 | $27.90 |
 | Veggie Delight            | Mushrooms, onion, green peppers, & sliced tomatos       | $17.70 | $21.65 | $24.40 | $27.90 |
 | Godfather                 | Sausage, onion, Italian beef, tomato, & hot giardiniera | $20.20 | $23.40 | $27.30 | $30.40 |
 | Hawaiian Hula             | Canadian bacon & pineapple                              | $16.10 | $18.55 | $21.30 | $24.25 |
@@ -31,6 +31,7 @@ A variety of special combinations, old favorites, and new delights. With every b
 | Cucina's Colossal         | Sausage, pepperoni, bacon, ground beef, mushrooms, onion, green peppers, green & black olives, & tomato all on a double-dough crust | $21.20 | $24.40 | $27.50 | $32.30 |
 | Grilled Chicken Alfredo   | Fresh grilled chicken breast, creamy alfredo sauce, romano, & mozzarella | $19.30 | $22.65 | $25.50 | $28.90 |
 | Spinach Classic           | Marinated spinach, olive oil, mushrooms, red onion, & mozzarella | $17.70 | $20.65 | $23.50 | $27.80 |
+
 
 
 
