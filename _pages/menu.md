@@ -31,6 +31,7 @@ A variety of special combinations, old favorites, and new delights. With every b
 | Cucina's Colossal         | Sausage, pepperoni, bacon, ground beef, mushrooms, onion, green peppers, green & black olives, & tomato all on a double-dough crust | $21.20 | $24.40 | $27.50 | $32.30 |
 | Grilled Chicken Alfredo   | Fresh grilled chicken breast, creamy alfredo sauce, romano, & mozzarella | $19.30 | $22.65 | $25.50 | $28.90 |
 | Spinach Classic           | Marinated spinach, olive oil, mushrooms, red onion, & mozzarella | $17.70 | $20.65 | $23.50 | $27.80 |
+| Taco Pizza                | Refried beans, ground beef, salsa, lettuce, tomato, & onions | $19.70 | $23.65 | $26.40 | $29.90 |
 
 
 
