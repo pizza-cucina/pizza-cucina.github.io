@@ -73,21 +73,21 @@ Cucina's authentic Italian cooking style, featuring our homemade sauces over a g
 
 | Pasta Dish | Price | 
 |:----------------------------------------------------------------------------|-------:|
-| Spaghetti                                                                   | $9.50  |
-| Mostaccioli                                                                 | $9.50  |
-| Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $9.95  |
-| Homemade Baked Lasagna                                                      | $10.75 |
-| Homemade Manicotti                                                          | $10.50 |
-| Homemade Gnocchi                                                            | $11.70 |
-| Linguini with Broccoli & Shrimp                                             | $12.95 |
-| Linguini Aglio Olio with Fresh Garlic & Oil                                 | $9.25  |
-| Shrimp Arrabiata                                                            | $14.95 |
-| Rigatoni with Vodka Tomato Sauce                                            | $12.75 |
-| Veal Parmigiana over Spaghetti                                              | $12.00 |
-| Chicken Parmigiana over Spaghetti                                           | $11.50 |
-| Eggplant Parmigiana over Spaghetti                                          | $11.20 |
-| Fettuccini Alfredo                                                          | $9.75  |
-| Fettuccini Alfredo with Chicken                                             | $11.25 |
+| Spaghetti                                                                   | $10.50  |
+| Mostaccioli                                                                 | $10.50  |
+| Baked Mostaccioli (Covered with Melted Mozzarella, Meat, or Cheese Ravioli) | $10.95  |
+| Homemade Baked Lasagna                                                      | $11.75 |
+| Homemade Manicotti                                                          | $11.50 |
+| Homemade Gnocchi                                                            | $12.70 |
+| Linguini with Broccoli & Shrimp                                             | $13.95 |
+| Linguini Aglio Olio with Fresh Garlic & Oil                                 | $10.25  |
+| Shrimp Arrabiata                                                            | $15.95 |
+| Rigatoni with Vodka Tomato Sauce                                            | $13.75 |
+| Veal Parmigiana over Spaghetti                                              | $13.00 |
+| Chicken Parmigiana over Spaghetti                                           | $12.50 |
+| Eggplant Parmigiana over Spaghetti                                          | $12.20 |
+| Fettuccini Alfredo                                                          | $10.75  |
+| Fettuccini Alfredo with Chicken                                             | $12.25 |
 
 | Extras | Add on Price |
 |:-----------------------------|:------:|
