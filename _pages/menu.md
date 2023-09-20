@@ -162,6 +162,7 @@ Our crisp garden salads are made fresh and come with croutons and your choice of
 
 | Appetizers | Price | 
 |:--------------------------------------------------------|-------:|
+| Calamari                                                | $13.45 |
 | Mac & Cheese Balls                                      | $7.25  |
 | Fresh Fried Calamari w/ Marinara Sauce                  | $11.45 |
 | Garlic Bread                                            | $3.50  |
